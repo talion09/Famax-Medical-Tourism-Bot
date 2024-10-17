@@ -1,0 +1,78 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-04-02 16:03+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/consultation.py:35 handlers/users/custom.py:21
+msgid "Назад"
+msgstr ""
+
+#: handlers/users/consultation.py:37
+msgid "На чью консультацию Вы хотите записаться?"
+msgstr ""
+
+#: handlers/users/consultation.py:56
+msgid "Записаться на консультацию"
+msgstr ""
+
+#: handlers/users/consultation.py:75
+msgid "Вы успешно записались на консультацию"
+msgstr ""
+
+#: handlers/users/custom.py:18
+msgid "Имя"
+msgstr ""
+
+#: handlers/users/custom.py:19
+msgid "Номер телефона"
+msgstr ""
+
+#: handlers/users/custom.py:20
+msgid "Язык"
+msgstr ""
+
+#: handlers/users/custom.py:32 handlers/users/custom.py:71
+msgid "Введите Ваше Имя и Фамилию:"
+msgstr ""
+
+#: handlers/users/custom.py:39 handlers/users/custom.py:108
+msgid "Отправьте ваш номер телефона (+998xxxxxxxxx):"
+msgstr ""
+
+#: handlers/users/custom.py:50 handlers/users/custom.py:68
+#: handlers/users/custom.py:104 handlers/users/custom.py:140
+msgid "Отменить"
+msgstr ""
+
+#: handlers/users/custom.py:55 handlers/users/custom.py:142
+msgid "Выберите язык:"
+msgstr ""
+
+#: handlers/users/custom.py:69 handlers/users/custom.py:105
+#: handlers/users/custom.py:141
+msgid "Изменение отменено"
+msgstr ""
+
+#: handlers/users/custom.py:70 handlers/users/custom.py:92
+#: handlers/users/custom.py:106
+msgid "Успешно изменено"
+msgstr ""
+
+#: handlers/users/custom.py:107
+msgid "📞 Отправить Мой контакт"
+msgstr ""
+

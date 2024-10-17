@@ -1,0 +1,81 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-04-02 16:03+0500\n"
+"PO-Revision-Date: 2022-11-19 17:58+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/users/consultation.py:35 handlers/users/custom.py:21
+msgid "Назад"
+msgstr "Ortga"
+
+#: handlers/users/consultation.py:37
+msgid "На чью консультацию Вы хотите записаться?"
+msgstr "Kimning maslahatiga buyurtma berishni xohlaysiz?"
+
+#: handlers/users/consultation.py:56
+msgid "Записаться на консультацию"
+msgstr "Maslahat uchun ro'yxatdan o'ting"
+
+#: handlers/users/consultation.py:75
+msgid "Вы успешно записались на консультацию"
+msgstr "Siz maslahat uchun ro'yxatdan o'tdingiz"
+
+#: handlers/users/custom.py:18
+msgid "Имя"
+msgstr "Ism"
+
+#: handlers/users/custom.py:19
+msgid "Номер телефона"
+msgstr "Telefon raqami"
+
+#: handlers/users/custom.py:20
+msgid "Язык"
+msgstr "Til"
+
+#: handlers/users/custom.py:32 handlers/users/custom.py:71
+msgid "Введите Ваше Имя и Фамилию:"
+msgstr "To'liq ismingizni kiriting:"
+
+#: handlers/users/custom.py:39 handlers/users/custom.py:108
+#, fuzzy
+msgid "Отправьте ваш номер телефона (+998xxxxxxxxx):"
+msgstr "Telefon raqamingizni yuboring (+998xxxxxxxxx):"
+
+#: handlers/users/custom.py:50 handlers/users/custom.py:68
+#: handlers/users/custom.py:104 handlers/users/custom.py:140
+msgid "Отменить"
+msgstr "Bekor qilish"
+
+#: handlers/users/custom.py:55 handlers/users/custom.py:142
+msgid "Выберите язык:"
+msgstr "Tilni tanlang:"
+
+#: handlers/users/custom.py:69 handlers/users/custom.py:105
+#: handlers/users/custom.py:141
+msgid "Изменение отменено"
+msgstr "O'zgartirish bekor qilindi"
+
+#: handlers/users/custom.py:70 handlers/users/custom.py:92
+#: handlers/users/custom.py:106
+msgid "Успешно изменено"
+msgstr "Muvaffaqiyatli o'zgartirildi"
+
+#: handlers/users/custom.py:107
+msgid "📞 Отправить Мой контакт"
+msgstr "📞 Raqamni yuborish"
+
+
